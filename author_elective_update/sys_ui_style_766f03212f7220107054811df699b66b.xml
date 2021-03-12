@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="DELETE">
+        <alt/>
+        <element>item_date</element>
+        <name>x_587759_loaner_re_loaner_request</name>
+        <style>background-color:PapayaWhip;color:brown;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 03:12:57</sys_created_on>
+        <sys_id>766f03212f7220107054811df699b66b</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>x_587759_loaner_re_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_587759_loaner_re">c39602dd2f3220107054811df699b661</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c39602dd2f3220107054811df699b661</sys_scope>
+        <sys_update_name>sys_ui_style_766f03212f7220107054811df699b66b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 08:57:15</sys_updated_on>
+        <value>cmdb_ci_computer</value>
+    </sys_ui_style>
+    <sys_translated_text action="DELETE" query="documentkey=766f03212f7220107054811df699b66b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">c39602dd2f3220107054811df699b661</application>
+        <file_path/>
+        <instance_id>bc2c5690db11bb8091232f17d496191b</instance_id>
+        <instance_name>dev85047</instance_name>
+        <name>sys_ui_style_766f03212f7220107054811df699b66b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style"><sys_ui_style action="INSERT_OR_UPDATE"><alt/><element>item_date</element><name>x_587759_loaner_re_loaner_request</name><style>background-color:PapayaWhip;color:brown;</style><sys_class_name>sys_ui_style</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-03-10 03:12:57</sys_created_on><sys_id>766f03212f7220107054811df699b66b</sys_id><sys_mod_count>6</sys_mod_count><sys_name>x_587759_loaner_re_loaner_request</sys_name><sys_package display_value="Loaner Request" source="x_587759_loaner_re">c39602dd2f3220107054811df699b661</sys_package><sys_policy/><sys_scope display_value="Loaner Request">c39602dd2f3220107054811df699b661</sys_scope><sys_update_name>sys_ui_style_766f03212f7220107054811df699b66b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-03-10 08:57:15</sys_updated_on><value>cmdb_ci_computer</value></sys_ui_style><sys_translated_text action="delete_multiple" query="documentkey=766f03212f7220107054811df699b66b"/></record_update>]]></payload>
+        <payload_hash>-15382125</payload_hash>
+        <record_name>x_587759_loaner_re_loaner_request</record_name>
+        <reverted_from/>
+        <source>0b9602dd2f3220107054811df699b663</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 08:57:15</sys_created_on>
+        <sys_id>29ce50312f3620107054811df699b6de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1781b5abf190000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 08:57:15</sys_updated_on>
+        <type>Style</type>
+        <update_guid>a1ce503124362010e3cdbb323e6d68de</update_guid>
+        <update_guid_history>a1ce503124362010e3cdbb323e6d68de:-15382125,e94edcfd13f220108731be4954b2cdd4:-1191336981,724c18bda4f220105675e9d377801db7:320156346,b2999f6546722010e55b0bf79dc319c4:472438058,2e7697258272201041d6bfe53902488f:-1191336981,9ce497e1f1722010dbe7e1c34c733ec6:1161521260,0eff4b2d8e3220104dc2ced0f532218e:1789765218</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-10 09:52:28</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_style">sys_ui_style</sys_db_object>
+        <sys_id>5690571f1c9c45d097bd18724457d301</sys_id>
+        <sys_metadata>766f03212f7220107054811df699b66b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_587759_loaner_re_loaner_request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_587759_loaner_re">c39602dd2f3220107054811df699b661</sys_package>
+        <sys_parent display_value="Loaner Request">7d1786d12f7220107054811df699b672</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">c39602dd2f3220107054811df699b661</sys_scope>
+        <sys_scope_delete display_value="">04637fa4edc2494a8016408a06e79ce9</sys_scope_delete>
+        <sys_update_name>sys_ui_style_766f03212f7220107054811df699b66b</sys_update_name>
+        <sys_update_version display_value="sys_ui_style_766f03212f7220107054811df699b66b">29ce50312f3620107054811df699b6de</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-10 09:52:28</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
